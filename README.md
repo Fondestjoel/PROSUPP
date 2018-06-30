@@ -1,4 +1,6 @@
 # Ikiba Joel
-Frontend Web Developer Track
 @Fondestjoel
+
+Frontend Web Developer Track
+
 Completed Project on Pixel Art Maker for Google Africa Challenge Scholarship
